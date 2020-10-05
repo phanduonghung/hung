@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="127229" started-at="2020-06-11T16:22:32 ICT" finished-at="2020-06-11T16:24:39 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="127229" started-at="2020-06-11T16:22:32 ICT" finished-at="2020-06-11T16:24:39 ICT">
+      <class name="iso.edu.vn.Lab5.GoogleSearchTest">
+        <test-method status="PASS" signature="testSearch()[pri:0, instance:iso.edu.vn.Lab5.GoogleSearchTest@9660f4e]" name="testSearch" duration-ms="127154" started-at="2020-06-11T16:22:32 ICT" finished-at="2020-06-11T16:24:39 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+      </class> <!-- iso.edu.vn.Lab5.GoogleSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
